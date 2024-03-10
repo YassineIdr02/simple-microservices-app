@@ -1,0 +1,17 @@
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/bin/Debug/net8.0/FormulaAirline.TicketProcessing
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/bin/Debug/net8.0/FormulaAirline.TicketProcessing.deps.json
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/bin/Debug/net8.0/FormulaAirline.TicketProcessing.runtimeconfig.json
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/bin/Debug/net8.0/FormulaAirline.TicketProcessing.dll
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/bin/Debug/net8.0/FormulaAirline.TicketProcessing.pdb
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net8.0/FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net8.0/FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net8.0/FormulaAirline.TicketProcessing.AssemblyInfo.cs
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net8.0/FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net8.0/FormulaAirline.TicketProcessing.dll
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net8.0/refint/FormulaAirline.TicketProcessing.dll
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net8.0/FormulaAirline.TicketProcessing.pdb
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net8.0/FormulaAirline.TicketProcessing.genruntimeconfig.cache
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net8.0/ref/FormulaAirline.TicketProcessing.dll
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net8.0/FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+/Users/yassineidrissi/Desktop/C#/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net8.0/FormulaAirline.TicketProcessing.csproj.CopyComplete
